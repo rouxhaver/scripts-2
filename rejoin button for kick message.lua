@@ -1,3 +1,4 @@
+--Auto execute highly recommended (use it)
 gui = game.CoreGui.RobloxPromptGui.promptOverlay:WaitForChild("ErrorPrompt")
 
 gui.Size = UDim2.new(0, 400, 0, 230)
